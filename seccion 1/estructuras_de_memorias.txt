@@ -1,0 +1,8 @@
+Descripcion del microcontrolador:
+High-performance RISC CPU:
+Solo 49 instrucciones
+Todas se ejecutan en un ciclo de instrucciones excepto los saltos a funciones.
+Velocidad de operacion:
+Entrada de reloj/Oscilador hasta 32 MHz
+Ciclo de instruccion de 125 ns
+

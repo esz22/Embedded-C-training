@@ -1,0 +1,14 @@
+CPU (microprocesador)
+Memoria RAM (con SFR registros de funcion especial)
+Memoria de programa(memoria ROM)
+memoria EEPROM(memoria de datos)
+Ocsilador (externo o interno)
+Puertos de I/O digitales (por letras)
+ADC (convertidor de señales analogica a digital)
+Modulos CCP/PWM 
+Modulos de comunicacion serial(USART, SPI, I2C)
+Timers
+Interrupciones (eventos externos)
+Fuentes de reset (WDG, MCLC)
+
+

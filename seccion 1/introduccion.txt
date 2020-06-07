@@ -1,0 +1,12 @@
+Que es un microprocesador?
+es un circuito integrado central y mas complejo de un sistema computacional; a modo de ilustracion se suele llamar por analogia el "cerebro de un computador".
+
+Que es una mricrocomputadora?
+es una computadora de dimenciones pequeñas con un mricroprocesador como su unidad central de procesamiento (CPU)
+
+Que es un microcontrolador?
+Un microcontrolador es un circuito integrado programable, capaz de ejecutar las ordenes grabadas en su memoria
+
+Diferencia entre un microprocesador, microcomputadora y microcontrolador:
+-el microprocesador se encuentra tanto en la microcomputadora como en el microprocesador y es el que ejecuta las intrucciones. la microcomputadora tiene sus componentes de manera externa y el microcontrolador de manera interna. el microcontrolador es de uso especifico (una sola aplicacion programada) y la microcomputadora de uso general.
+
