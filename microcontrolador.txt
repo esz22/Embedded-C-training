@@ -1,0 +1,27 @@
+resets:
+power on reset(POR):
+-no permite al micro ejecutar algun programa hasta que detecte un voltaje adecuado para su funcionamiento
+
+brown out reset(BOR):
+-resetea el micro en caso de tener un nivel de voltaje bajo no adecuado de voltaje
+
+master clear reset (MCLR):
+-reset externo en un pin del micro donde se conecta un boton
+
+watchdog timer reset(WDT):
+-temporizador que resetea el micro en caso de un mal funcionamiento
+
+instruccion RESET:
+-instruccion en ensablador la cual resetea el micro desde software
+
+stack overflow:
+-desbordamiento de stack
+
+stack underflow:
+-subdesbordamiento de stack
+
+programming mode exit:
+-salida de programacion, al salir del main se reinicia el micro
+
+
+bits de configuracion:
